@@ -1,0 +1,44 @@
+body {
+background-color: rgba(160, 184, 189, 0.651);
+}
+
+* {
+    margin: 3%;
+    padding: 0%;
+}
+
+
+nav {
+    text-align: center;
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #ebf7f7;
+    color: #000000;
+}
+
+
+nav {
+    background-color: #443481;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5%;
+}
